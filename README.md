@@ -4,10 +4,7 @@
 
 Welcome to my GitHub profile! I'm an Electronics and Communication Engineering student passionate about programming, technology, and software development.
 
-🔗 LinkedIn: 
-💻 GitHub: 
 
----
 
 📖 About Me
 
