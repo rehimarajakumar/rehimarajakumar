@@ -1,4 +1,4 @@
-##Hi there, I'm Rehima R. 👋
+Hi there, I'm Rehima R. 👋
 
 🎓 First-Year ECE Student | Aspiring Software Engineer
 
